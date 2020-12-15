@@ -1,0 +1,50 @@
+#titrehead{
+	border: 1px solid black;
+	background-color: rgb(157, 160, 245);
+}
+.lead{
+	color: red;
+	font-weight: bold;
+}
+#dernierldc{
+	font-weight: bold;
+}
+#bloc1{
+	margin-top: 30px;
+	text-align: center;
+	
+	
+}
+div p span{
+	border:1px dashed black;
+	background-color: rgb(171, 245, 245);
+	opacity: 0.6;
+	font-weight: bold;
+}
+#bloc2 p{
+
+}
+.txtbold{
+	font-weight: bold;
+}
+#image{
+	display: flex;
+	justify-content: center;
+}
+nav{
+
+	margin-top: 50px;
+}
+#texte{
+	margin-top: 3px;
+	text-align: justify;
+	padding-top: 10px;
+}
+.footerimg{
+	font-style: italic;
+	font-weight: bold;
+}
+#borderh2{
+	border: 1px solid black;
+	background-color: rgb(157, 160, 245);
+}
